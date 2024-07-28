@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shmokh Alotaibi</h1>
 <h3 align="center">Mobile App developer👩🏼‍💻</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shmokhm4" alt="shmokhm4" /></a> </p>
-
 - 🔭 I’m Fresh graduate of : **Computer Science and AI**
 
 - 🌱 I’m currently learning **ML and Data Analyst**
