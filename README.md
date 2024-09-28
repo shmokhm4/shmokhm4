@@ -3,7 +3,7 @@
 
 - 🔭 I’m Fresh graduate of : **Computer Science and AI**
 
-- 🌱 I’m currently learning **Data Analyst ML and **
+- 🌱 I’m currently learning: **Data Analyst ML and**
 
 - 📫 How to reach me **shmuokh75@gmail.com**
 
