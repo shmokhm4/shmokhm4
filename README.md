@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shmokh Alotaibi</h1>
-<h3 align="center">Mobile App developer👩🏼‍💻</h3>
+<h3 align="center">Data Analyst & Frontend Developer👩🏼‍💻</h3>
 
 - 🔭 I’m Fresh graduate of : **Computer Science and AI**
 
-- 🌱 I’m currently learning **ML and Data Analyst**
-
-- 👯 My favorite framework : **Flutter**
-
-- 💬 Ask me about **Flutter**
+- 🌱 I’m currently learning **Data Analyst ML and **
 
 - 📫 How to reach me **shmuokh75@gmail.com**
 
