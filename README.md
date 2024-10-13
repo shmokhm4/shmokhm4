@@ -1,18 +1,35 @@
-<h1 align="center">Hi 👋, I'm Shmokh Alotaibi</h1>
+<h1 align="center">Hi there I'm Shmokh Alotaibi 👋</h1>
 <h3 align="center">Data Analyst & Frontend Developer👩🏼‍💻</h3>
 
-- 🔭 I’m Fresh graduate of : **Computer Science and AI**
+<div align=center>
+    <a href="https://www.linkedin.com/in/shmokh-alotaibi"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="https://t.me/ii_uo3"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
+</div>
+<br>
 
-- 🌱 I’m currently learning: **Data Analyst ML and**
-
-- 📫 How to reach me **shmuokh75@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/www.linkedin.com/in/shmokh-alotaibi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/shmokh-alotaibi" height="30" width="40" /></a>
+<p align="center">
+  Motivated Computer Science and AI graduate from Umm Al-Qura University with a strong foundation in data analysis, machine learning, and software development. Proficient in Java, Python, SQL, and MongoDB. Seeking an entry-level role in data analysis or data science to leverage my skills in innovative projects. 
 </p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+<ul>
+  <li>🔭 I’m a fresh graduate of: Computer Science and AI</li>
+  <li>🌱 <b>I’m currently learning</b>: Data Analysis and Machine Learning.</li>
+  <li>📫 How to reach me: shmuokh75@gmail.com</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shmokhm4&show_icons=true&locale=en&layout=compact" alt="shmokhm4" /></p>
+<div align="center">
+    <h1>Contribution Activity</h1>
+    <img src="https://github-readme-stats.vercel.app/api?username=shmokhm4&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shmokhm4&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+    <br>
+    <br>
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/shmokhm4/shmokhm4/main/your_github_animation.gif" alt="GitHub Octocat Logo" height="100">
+</div>
+
+Credit: [Shmokh Alotaibi](https://github.com/shmokhm4)
+
+Last edited on: 14/10/2024
