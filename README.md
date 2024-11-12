@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Shmokh Alotaibi 👋</h1>
-<h3 align="center">Data Analyst & Frontend Developer👩🏼‍💻</h3>
+<h3 align="center">Data Analyst & Aspiring Data Scientist👩🏼‍💻</h3>
 
 <div align=center>
     <a href="https://www.linkedin.com/in/shmokh-alotaibi"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
@@ -13,9 +13,9 @@
 <br>
 
 <ul>
-  <li>🔭 I’m a fresh graduate of: Computer Science and AI</li>
+  <li>🔭 <b>I’m a fresh graduate of</b>: Computer Science and AI</li>
   <li>🌱 <b>I’m currently learning</b>: Data Analysis and Machine Learning.</li>
-  <li>📫 How to reach me: shmuokh75@gmail.com</li>
+  <li>📫 <b>How to reach me</b>: shmokhalotaibi78@gmail.com</li>
 </ul>
 
 <div align="center">
